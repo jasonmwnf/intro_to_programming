@@ -1,3 +1,3 @@
 # intro_to_programming
 
-Answers for exercises in Intro To Programming book. 
+Answers to exercises in Intro To Programming book. 
